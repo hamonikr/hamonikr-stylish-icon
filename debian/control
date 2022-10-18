@@ -1,0 +1,18 @@
+Source: hamonikr-modded-icon
+Section: x11
+Priority: optional
+Maintainer: HamoniKR <pkg@hamonikr.org>
+Homepage: https://github.com/hamonikr/hamonikr-modded-icon
+Build-Depends: debhelper (>= 11)
+Vcs-Git: https://github.com/hamonikr/hamonikr-modded-icon
+Vcs-Browser: https://github.com/hamonikr/hamonikr-modded-icon
+Standards-Version: 4.3.0
+
+Package: hamonikr-modded-icon
+Architecture: all
+Depends: ${misc:Depends}
+Replaces:
+Description: HamoniKR Modded Icon Pack
+ This package was created by user contribution.
+ Please check the following address for user upstream address.
+ https://github.com/kuroehanako/Stylish-icon-theme/tree/HamoniKR-Modded
