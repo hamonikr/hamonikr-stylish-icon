@@ -1,3 +1,11 @@
+hamonikr-modded-icon (1.0.1) taebaek; urgency=medium
+
+  [Kevin]
+  * Update unsuitable few icons
+   - albert, mintsinstall, live-usb-creator
+
+ -- HamoniKR <pkg@hamonikr.org>  Sat, 22 Oct 2022 13:59:49 +0900
+
 hamonikr-modded-icon (1.0.0) taebaek; urgency=medium
 
   * First release for HamoniKR 6.0
