@@ -1,14 +1,14 @@
-Source: hamonikr-modded-icon
+Source: hamonikr-stylish-icon
 Section: x11
 Priority: optional
 Maintainer: HamoniKR <pkg@hamonikr.org>
-Homepage: https://github.com/hamonikr/hamonikr-modded-icon
+Homepage: https://github.com/hamonikr/hamonikr-stylish-icon
 Build-Depends: debhelper (>= 11)
-Vcs-Git: https://github.com/hamonikr/hamonikr-modded-icon
-Vcs-Browser: https://github.com/hamonikr/hamonikr-modded-icon
+Vcs-Git: https://github.com/hamonikr/hamonikr-stylish-icon
+Vcs-Browser: https://github.com/hamonikr/hamonikr-stylish-icon
 Standards-Version: 4.3.0
 
-Package: hamonikr-modded-icon
+Package: hamonikr-stylish-icon
 Architecture: all
 Depends: ${misc:Depends}
 Replaces:

@@ -1,3 +1,14 @@
+hamonikr-stylish-icon (1.0.1) taebaek; urgency=medium
+
+  [JamesBae]
+  * Change Package name 'hamonikr-stylish-icon'
+   - Update README
+   - Change github repository name
+  * Add distributor-logo.svg
+   - installer default image logo
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 24 Oct 2022 14:29:24 +0900
+
 hamonikr-modded-icon (1.0.1) taebaek; urgency=medium
 
   [Kevin]

@@ -1,4 +1,4 @@
-# HamoniKR-Modded-icon
+# HamoniKR-Stylish-Icon
 kuroehanako 님이 기여를 해주신 아이콘입니다.  
 하모니카에 사용할 수 있도록 데비안 패키지로 제작하는 소스입니다.  
 업스트림 주소 : https://github.com/kuroehanako/Stylish-icon-theme/tree/HamoniKR-Modded
