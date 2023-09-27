@@ -2,3 +2,9 @@
 
 %:
 	dh $@
+
+override_dh_strip_nondeterminism:
+	# Disables dh_strip_nondeterminism to speed up the debian package creation
+
+override_dh_builddeb:
+	dh_builddeb -- -Zxz -z9	
