@@ -1,3 +1,11 @@
+hamonikr-stylish-icon (1.2.1) stable; urgency=medium
+
+  [Kevin Kim]
+  * New upstream ver 23.08
+   - https://github.com/mjkim0727/Stylish-icon-theme
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 28 Sep 2023 14:57:14 +0900
+
 hamonikr-stylish-icon (1.1.1) stable; urgency=medium
 
   [Kevin Kim]
