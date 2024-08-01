@@ -1,3 +1,10 @@
+hamonikr-stylish-icon (1.2.7) paektu; urgency=medium
+
+  [Kevin Kim]
+  * conky related icon removal
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 01 Aug 2024 19:15:34 +0900
+
 hamonikr-stylish-icon (1.2.6) paektu; urgency=medium
 
   [Kevin Kim]
